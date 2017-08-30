@@ -1,2 +1,2 @@
 # Cocktails
-Collected and tweaked recipies
+Collected and tweaked recipes
